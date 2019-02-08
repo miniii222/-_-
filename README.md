@@ -16,13 +16,57 @@
    - 구매할 확률이 낮은 값을 맞출수록 작아진다.
 ##### - data 설명
    - train(13647309, 48)
-![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_1.JPG '1')
-![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_2.JPG '2')
-![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_3.JPG '3')
-![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_4.JPG '4')
-![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_5.JPG '5')
-![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_6.JPG '6')
-          
+   - columns
+column names | Description
+---- | ---- 
+fecha_dato | 날짜
+ncodpers                 int64
+ind_empleado             object
+pais_residencia          object
+sexo                     object
+age                      object
+fecha_alta               object
+ind_nuevo                float64
+antiguedad               object
+indrel                   float64
+ult_fec_cli_1t           object
+indrel_1mes              object
+tiprel_1mes              object
+indresi                  object
+indext                   object
+conyuemp                 object
+canal_entrada            object
+indfall                  object
+tipodom                  float64
+cod_prov                 float64
+nomprov                  object
+ind_actividad_cliente    float64
+renta                    float64
+segmento                 object
+ind_ahor_fin_ult1        int64
+ind_aval_fin_ult1        int64
+ind_cco_fin_ult1         int64
+ind_cder_fin_ult1        int64
+ind_cno_fin_ult1         int64
+ind_ctju_fin_ult1        int64
+ind_ctma_fin_ult1        int64
+ind_ctop_fin_ult1        int64
+ind_ctpp_fin_ult1        int64
+ind_deco_fin_ult1        int64
+ind_deme_fin_ult1        int64
+ind_dela_fin_ult1        int64
+ind_ecue_fin_ult1        int64
+ind_fond_fin_ult1        int64
+ind_hip_fin_ult1         int64
+ind_plan_fin_ult1        int64
+ind_pres_fin_ult1        int64
+ind_reca_fin_ult1        int64
+ind_tjcr_fin_ult1        int64
+ind_valo_fin_ult1        int64
+ind_viv_fin_ult1         int64
+ind_nomina_ult1          float64
+ind_nom_pens_ult1        float64
+ind_recibo_ult1          int64
        
   
    - test(
