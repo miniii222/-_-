@@ -17,16 +17,17 @@
 ##### - data 설명
    - train(13647309, 48)
    - columns
+   
 column names | Description
 ---- | ---- 
 fecha_dato | 날짜
-ncodpers                 int64
-ind_empleado             object
+ncodpers                 고객 고유번호
+ind_empleado             고용 지표(A : active, B : ex employed, F : filial, N : not employee, P : passivd)
 pais_residencia          object
 sexo                     object
 age                      object
 fecha_alta               object
-ind_nuevo                float64
+ind_nuevo                신규 고객 지표(6개월 이내 신규 고객이면 1)
 antiguedad               object
 indrel                   float64
 ult_fec_cli_1t           object
