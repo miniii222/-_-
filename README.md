@@ -20,7 +20,7 @@
    
 column names | Description
 ---- | ---- 
-fecha_dato | 날짜
+fecha_dato | 날짜(2015년 1월~2016년 6월 매월 28)
 ncodpers                 고객 고유번호
 ind_empleado             고용 지표(A : active, B : ex employed, F : filial, N : not employee, P : passivd)
 pais_residencia          object
@@ -36,7 +36,7 @@ tiprel_1mes              object
 indresi                  object
 indext                   object
 conyuemp                 object
-canal_entrada            object
+canal_entrada            고객 유입 채널
 indfall                  object
 tipodom                  float64
 cod_prov                 float64
@@ -44,6 +44,7 @@ nomprov                  object
 ind_actividad_cliente    float64
 renta                    float64
 segmento                 object
+
 ind_ahor_fin_ult1        int64
 ind_aval_fin_ult1        int64
 ind_cco_fin_ult1         int64
