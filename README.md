@@ -14,3 +14,16 @@
 ##### - 평가 척도 : Mean Average Precision(MAP)@7
    - 구매할 확률이 높은 값을 많이 맞출수록 값이 크다.
    - 구매할 확률이 낮은 값을 맞출수록 작아진다.
+##### - data 설명
+   - train(13647309, 48)
+![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_1.JPG '1')
+![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_2.JPG '2')
+![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_3.JPG '3')
+![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_4.JPG '4')
+![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_5.JPG '5')
+![](https://github.com/miniii222/Kaggle_ML/blob/master/santander_product_recommendation/column_6.JPG '6')
+          
+       
+  
+   - test(
+   
