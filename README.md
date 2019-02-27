@@ -5,7 +5,7 @@
 ##### 저자 github : [link](https://github.com/bjpublic/kaggleml)
 
 
-# 1. Santander Product Recommendation Competition : [link](https://www.kaggle.com/c/santander-product-recommendation)
+### 1. Santander Product Recommendation Competition : [link](https://www.kaggle.com/c/santander-product-recommendation)
 ### 대회 설명
 ##### - 진행기간 : 2016.10.27~ 2016.12.22
 ##### - 데이터 설명
