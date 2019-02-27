@@ -1,4 +1,6 @@
-# Kaggle_ML
+# Kaggle_kernel
+- 캐글 커널 공부
+
 ## kaggle 우승작으로 배우는 머신러닝_탐구생활 공부 
 ##### 저자 github : [link](https://github.com/bjpublic/kaggleml)
 
@@ -17,60 +19,3 @@
 ##### - data 설명
    - train(13647309, 48) - 24개의 제품 
    - test(929615, 24)
-   - columns
-   
-column names | Description
----- | ---- 
-fecha_dato | 날짜(2015년 1월~2016년 6월 매월 28)
-ncodpers                 고객 고유번호
-ind_empleado             고용 지표(A : active, B : ex employed, F : filial, N : not employee, P : passivd)
-pais_residencia          object
-sexo                     object
-age                      object
-fecha_alta               object
-ind_nuevo                신규 고객 지표(6개월 이내 신규 고객이면 1)
-antiguedad               object
-indrel                   float64
-ult_fec_cli_1t           object
-indrel_1mes              object
-tiprel_1mes              object
-indresi                  object
-indext                   object
-conyuemp                 object
-canal_entrada            고객 유입 채널
-indfall                  object
-tipodom                  float64
-cod_prov                 float64
-nomprov                  object
-ind_actividad_cliente    float64
-renta                    float64
-segmento                 object
-
-ind_ahor_fin_ult1        int64
-ind_aval_fin_ult1        int64
-ind_cco_fin_ult1         int64
-ind_cder_fin_ult1        int64
-ind_cno_fin_ult1         int64
-ind_ctju_fin_ult1        int64
-ind_ctma_fin_ult1        int64
-ind_ctop_fin_ult1        int64
-ind_ctpp_fin_ult1        int64
-ind_deco_fin_ult1        int64
-ind_deme_fin_ult1        int64
-ind_dela_fin_ult1        int64
-ind_ecue_fin_ult1        int64
-ind_fond_fin_ult1        int64
-ind_hip_fin_ult1         int64
-ind_plan_fin_ult1        int64
-ind_pres_fin_ult1        int64
-ind_reca_fin_ult1        int64
-ind_tjcr_fin_ult1        int64
-ind_valo_fin_ult1        int64
-ind_viv_fin_ult1         int64
-ind_nomina_ult1          float64
-ind_nom_pens_ult1        float64
-ind_recibo_ult1          int64
-       
-  
-   - test(
-   
