@@ -1,6 +1,8 @@
 # Kaggle_kernel
 - 캐글 커널 공부
 
+## New York City Taxi Trip Duration : [link](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
+
 ## kaggle 우승작으로 배우는 머신러닝_탐구생활 공부 
 ##### 저자 github : [link](https://github.com/bjpublic/kaggleml)
 
