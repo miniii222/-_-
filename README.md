@@ -1,5 +1,11 @@
 # Kaggle_kernel
-- 캐글 커널 공부
+- 캐글 커널 필사
+
+## EDA
+
+## Modeling
+
+
 
 ## New York City Taxi Trip Duration : [link](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
 1. 필사 [kernel 1](https://www.kaggle.com/gaborfodor/from-eda-to-the-top-lb-0-367)
