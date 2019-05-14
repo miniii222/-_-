@@ -13,7 +13,7 @@
 
 
 ## kaggle learn : [link](https://www.kaggle.com/learn/overview)
-
+1.pandas : [link](https://github.com/miniii222/Kaggle_kernel/tree/master/kaggle_learn/pandas)
 
 
 ## kaggle 우승작으로 배우는 머신러닝_탐구생활 공부 
