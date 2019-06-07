@@ -1,5 +1,6 @@
 # Kaggle_kernel
 - 캐글 커널 필사
+https://datascienceplus.com/network-analysis-of-game-of-thrones/
 
 ## EDA
 
