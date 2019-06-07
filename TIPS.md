@@ -36,3 +36,22 @@ def reduce_mem_usage(df):
 train = reduce_mem_usage(train)
 test = reduce_mem_usage(test)
 ```
+
+## gpu memory
+```
+os.environ["CUDA_VISIBLE_DEVICES"]="0"
+
+from keras import backend as K
+import tensorflow as tf
+config = tf.ConfigProto()
+config.gpu_options.allow_growth=True
+sess = tf.Session(config=config)
+K.set_session(sess)
+```
+
+## 파이썬에서 한글 폰트 안 깨지게
+```
+from matplotlib import rc
+plt.rc('font', family='Malgun Gothic')
+plt.rc('axes', unicode_minus=False)
+```
